@@ -1,6 +1,6 @@
-位置服务项目后端部分采用`SpringBoot`。这里将后端部分的每一个功能独立出来，进行整理和学习。同时，加入了一些`SpringBoot/Spring`的基础知识和`SpringBoot`与其他功能的整合。
+**位置服务项目后端部分采用`SpringBoot`。这里将后端部分的每一个功能独立出来，进行整理和学习。同时，加入了一些`SpringBoot/Spring`的基础知识和`SpringBoot`与其他功能的整合。**
 
-[博客](https://srammy.github.io/)中有对这个Repository中每一个项目的介绍文章。
+**[博客](https://srammy.github.io/tags/Spring/)中有对这个Repository中每一个项目的介绍文章。**
 
 - 几个基本注解
   - [@Mapper和@Repository](https://github.com/Srammy/SpringBootLearning/tree/master/%40Mapper-%40Repository)
@@ -35,7 +35,7 @@
 - [SpringBoot项目war包部署于Tomcat](https://github.com/Srammy/SpringBootLearning/tree/master/SpringBoot-MyBatis-WAR-Tomcat)
 - [SpringBoot中ApplicationRunner的使用](https://github.com/Srammy/SpringBootLearning/tree/master/SpringBoot-ApplicationRunner)
 
-附：
+**附：**
 
 - [统计代码执行耗时](https://github.com/Srammy/SpringBootLearning/tree/master/CodeTime)
 - [FastJson的使用](https://github.com/Srammy/SpringBootLearning/tree/master/FastJson)
