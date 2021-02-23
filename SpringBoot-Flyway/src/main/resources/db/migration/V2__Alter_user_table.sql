@@ -1,0 +1,1 @@
+alter table t_user add salary int null;
